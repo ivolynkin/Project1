@@ -16,6 +16,9 @@ public class HelloWorld {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello World!!!!");
-        System.out.printls("HUJ VAM VSEM");
+        
+        System.out.println("HUJ VAM VSEM");
+        System.out.println("HUJ VAM VSEM URA");
+        
     }
 }
